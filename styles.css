@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.card{
+	box-shadow: 3px 3px 2px 5px blue;
+	align-content: center;
+	width: 400px;
+	padding: 20px;
+	background-color: cornflowerblue;
+}
+
+.card img{
+	position: relative;
+	align-content: center;
+	width: 100%;
+	padding :10px;
+}
